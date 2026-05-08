@@ -17,7 +17,7 @@
 > (submitted to Computerized Medical Imaging and Graphics, 2026).
 
 ---
-
+```
 ## Repository structure
 
 MSc_Dissertation_OCT_Classification_EWS/
@@ -31,6 +31,7 @@ MSc_Dissertation_OCT_Classification_EWS/
 │
 └── Early_Warning_System/
 └── Early_Warning_System.ipynb   # EWS implementation notebook
+```
 
 Each folder contains `.ipynb` (runnable) and `.html` (static view) files for each seed run.
 
@@ -51,7 +52,7 @@ The Google Drive contains the complete project mirror including everything not i
 
 Google Drive structure:
 
-...
+```
 Project MSc - CSC-40098/
 ├── 2 - Data/                          # Dataset (not included — see Dataset section)
 ├── 3 - Experiments/                   # All notebooks (same as this repo)
@@ -59,7 +60,7 @@ Project MSc - CSC-40098/
 ├── Summative Assessment 2/            # Dissertation document + presentation
 ├── Summative Assessment 3 - Progress Report/
 └── ReadMe.html
-...
+```
 
 > Model checkpoints (~250 GB) are not included in Google Drive due to size.  
 > Seed values are fixed in all training scripts to maximise reproducibility.
