@@ -112,19 +112,19 @@ Clone this repository or download from Google Drive.
 
 **Model training notebooks:**
 ```python
-ROOT = Path(r"C:\Users\YourName\Documents\Model_Training")
-DATASET_ROOT = Path(r"C:\Users\YourName\Documents\OCT2017")
+ROOT = Path(r"C:\Users\Ajanth\Documents\Model_Training")
+DATASET_ROOT = Path(r"C:\Ajanth\YourName\Documents\OCT2017")
 ```
 
 **Master Evaluation notebook:**
 ```python
-ROOT = Path(r"C:\Users\YourName\Documents\Model_Training")
-DATASET_ROOT = Path(r"C:\Users\YourName\Documents\OCT2017")
+ROOT = Path(r"C:\Users\Ajanth\Documents\Model_Training")
+DATASET_ROOT = Path(r"C:\Users\Ajantha\Documents\OCT2017")
 ```
 
 **Early Warning System notebook:**
 ```python
-PROJECT_ROOT = Path(r"C:\Users\YourName\Documents\Experiments")
+PROJECT_ROOT = Path(r"C:\Users\Ajantha\Documents\Experiments")
 ```
 
 ### Step 3 — Run notebooks in order
