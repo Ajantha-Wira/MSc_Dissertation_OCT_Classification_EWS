@@ -1,0 +1,5 @@
+Model,Seeds,Acc Mean,Acc Std,F1 Mean,F1 Std
+cbam_resnet,4,98.27%,0.40%,98.28%,0.39%
+resnet_baseline,4,98.94%,0.13%,98.94%,0.13%
+se_resnet,5,98.26%,0.14%,98.27%,0.14%
+vit_b16,5,98.31%,0.51%,98.31%,0.51%
