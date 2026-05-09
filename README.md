@@ -70,7 +70,7 @@ Project MSc - CSC-40098/
 ├── 2 - Data/                          # Dataset (not included — see Dataset section)
 ├── 3 - Experiments/                   # All notebooks (same as this repo)
 ├── MSc_Dissertation_Early_Warning_System/  # EWS notebook
-├── Summative Assessment 2/            # Dissertation document + presentation
+├── Summative Assessment 2/            # presentation
 ├── Summative Assessment 3 - Progress Report/
 └── ReadMe.html
 ```
