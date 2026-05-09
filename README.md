@@ -42,13 +42,26 @@ Each folder contains `.ipynb` (runnable) and `.html` (static view) files for eac
 
 ---
 
-## Full project on Google Drive
+## Research Archive and Original Submission Package
 
-The Google Drive contains the complete project mirror including everything not in this repository:
+A preserved archive containing the original MSc dissertation submission package is available below.
+
+This archive represents the working project structure as it existed during submission to Keele University and includes supporting materials developed throughout the research process, including:
+
+- progress reports,
+- presentations,
+- supplementary experimental assets,
+- intermediate research documentation,
+- original project organisation structure.
+
+The files are preserved in their original form and have not been retrospectively reorganised for journal submission purposes.
+
+The official dissertation document itself is maintained through the Keele University Research Repository deposit and associated DOI rather than duplicated here.:
 
 | Contents | Link |
 |----------|------|
-| Full project (all notebooks + presentation + progress reports) | [Google Drive](https://drive.google.com/drive/folders/1H9mo2pwBiiApHMl-CnohP172DAZaebU6?usp=sharing) |
+| Archive	Link
+Original MSc submission archive and supporting materials | [Google Drive](https://drive.google.com/drive/folders/1H9mo2pwBiiApHMl-CnohP172DAZaebU6?usp=sharing) |
 
 Google Drive structure:
 
