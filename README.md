@@ -14,7 +14,7 @@
 > The dissertation has been deposited in the Keele University Research Repository.
 
 ---
----
+```
 ## Repository structure
 
 MSc_Dissertation_OCT_Classification_EWS/
