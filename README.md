@@ -11,13 +11,10 @@
 **ORCID:** [0009-0009-0785-0597](https://orcid.org/0009-0009-0785-0597)
 
 > This repository contains the Jupyter notebooks and HTML exports for the MSc dissertation.  
-> The dissertation has been deposited in the Keele University Research Repository.  
-> This codebase forms the foundation for the journal paper:  
-> *A Representation-Space Early Warning Framework for Safe Medical AI Screening*  
-> (submitted to Computerized Medical Imaging and Graphics, 2026).
+> The dissertation has been deposited in the Keele University Research Repository.
 
 ---
-```
+
 ## Repository structure
 
 MSc_Dissertation_OCT_Classification_EWS/
@@ -56,12 +53,11 @@ This archive represents the working project structure as it existed during submi
 
 The files are preserved in their original form and have not been retrospectively reorganised for journal submission purposes.
 
-The official dissertation document itself is maintained through the Keele University Research Repository deposit and associated DOI rather than duplicated here.:
+The official dissertation document itself is maintained through the Keele University Research Repository deposit and associated DOI rather than duplicated here.
 
 | Contents | Link |
 |----------|------|
-| Archive	Link
-Original MSc submission archive and supporting materials | [Google Drive](https://drive.google.com/drive/folders/1H9mo2pwBiiApHMl-CnohP172DAZaebU6?usp=sharing) |
+| Original MSc submission archive and supporting materials | [Google Drive](https://drive.google.com/drive/folders/1H9mo2pwBiiApHMl-CnohP172DAZaebU6?usp=sharing) |
 
 Google Drive structure:
 
@@ -103,7 +99,6 @@ The EWS notebook (`Early_Warning_System.ipynb`) implements the initial concept d
 - This is the original contribution of this dissertation; no directly comparable prior work integrating an EWS with AI-based retinal image classification was identified in the literature review
 
 This notebook is the direct precursor to the full three-layer EWS framework developed in the subsequent journal paper.
-
 ---
 
 ## Dataset
@@ -126,7 +121,7 @@ Clone this repository or download from Google Drive.
 **Model training notebooks:**
 ```python
 ROOT = Path(r"C:\Users\YourName\Documents\Model_Training")
-DATASET_ROOT = Path(r"C:\YourName\YourName\Documents\OCT2017")
+DATASET_ROOT = Path(r"C:\Users\YourName\Documents\OCT2017")
 ```
 
 **Master Evaluation notebook:**
