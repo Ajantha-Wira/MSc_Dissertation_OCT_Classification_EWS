@@ -89,7 +89,7 @@ Project MSc - CSC-40098/
 | CBAM-ResNet50 | Convolutional Block Attention | 42, 84, 126, 3407 | 98.76% |
 | ViT-B/16 | Vision Transformer | 42, 84, 126, 3407 | 98.97% |
 
-All models trained on the leakage-corrected Kermany OCT2017 dataset (27,692 duplicates removed before training).
+All models were trained on the leakage-corrected Kermany OCT2017 dataset (27,692 duplicates removed before training).
 
 ---
 
@@ -100,7 +100,7 @@ The EWS notebook (`Early_Warning_System.ipynb`) implements the initial concept d
 - Uses ResNet-50 embeddings from the penultimate layer (2048-dimensional)
 - Applies Mahalanobis distance to detect structurally atypical normal predictions
 - Uses cosine alignment to identify directional tendency toward disease classes
-- This is the original contribution of this dissertation — no directly comparable prior work integrating an EWS with AI-based retinal image classification was identified in the literature review
+- This is the original contribution of this dissertation; no directly comparable prior work integrating an EWS with AI-based retinal image classification was identified in the literature review
 
 This notebook is the direct precursor to the full three-layer EWS framework developed in the subsequent journal paper.
 
@@ -160,9 +160,6 @@ numpy, pandas, matplotlib, seaborn, Pillow
 ---
 
 ## Related work
-
-**Journal paper (submitted 2026):**  
-Wirasinghe, A.I. (2026) *A Representation-Space Early Warning Framework for Safe Medical AI Screening: Detecting Structurally Atypical Normal Predictions in OCT.* Submitted to Computerized Medical Imaging and Graphics.
 
 **Preprints (earlier separate contributions):**
 - Wirasinghe, A.I. (2026) An Embedding-Based Post-Classification Safety Layer. Zenodo. [https://doi.org/10.5281/zenodo.19748474](https://doi.org/10.5281/zenodo.19748474)
