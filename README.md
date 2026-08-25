@@ -8,11 +8,14 @@
 **Student:** Ajantha Indunil Wirasinghe (24027813)  
 **Supervisor:** Beran Necat  
 **Module:** CSC-40098 | Keele University | 2024/26  
-**ORCID:** [0009-0009-0785-0597](https://orcid.org/0009-0009-0785-0597)
+**ORCID:** [0009-0009-0785-0597](https://orcid.org/0009-0009-0785-0597)  
+**Dissertation DOI:** [10.21252/zb0m-aq85](https://doi.org/10.21252/zb0m-aq85)
+
+---
 
 > This repository contains the Jupyter notebooks and HTML exports for the MSc dissertation.  
-> The dissertation has been deposited in the Keele University Research Repository.  
-
+> The dissertation has been deposited in the Keele University Research Repository:
+> [https://doi.org/10.21252/zb0m-aq85](https://doi.org/10.21252/zb0m-aq85)
 
 ---
 ```
@@ -104,6 +107,18 @@ This notebook is the direct precursor to the full three-layer EWS framework deve
 
 ---
 
+---
+
+## Extended research
+
+The embedding-based EWS concept introduced in this dissertation was subsequently developed further as a separate, extended piece of research: a full three-layer framework, and a cross-architecture reproducibility investigation testing whether the underlying representation-space geometry holds across independently trained classifiers.
+
+Repository: [OCT-EWS-framework](https://github.com/Ajantha-Wira/OCT-EWS-framework)
+
+> This repository is currently private. It will be made public in due course.
+
+---
+
 ## Dataset
 
 The Kermany OCT2017 dataset is publicly available at:  
@@ -159,10 +174,14 @@ numpy, pandas, matplotlib, seaborn, Pillow
 
 ## Related work
 
+## Related work
+
+**Follow-on repository (EWS framework and reproducibility study):**
+- [OCT-EWS-framework](https://github.com/Ajantha-Wira/OCT-EWS-framework) — the full three-layer EWS implementation and the subsequent cross-architecture reproducibility investigation, both building directly on this dissertation's trained classifiers.
+
 **Preprints (earlier separate contributions):**
 - Wirasinghe, A.I. (2026) An Embedding-Based Post-Classification Safety Layer. Zenodo. [https://doi.org/10.5281/zenodo.19748474](https://doi.org/10.5281/zenodo.19748474)
 - Wirasinghe, A.I. (2026) Distance Metrics for Representation-Space Safety. Zenodo. [https://doi.org/10.5281/zenodo.19775566](https://doi.org/10.5281/zenodo.19775566)
-
 ---
 
 ## Citation
@@ -171,6 +190,7 @@ Wirasinghe, A.I. (2026) Attention Models for Deep Convolutional Neural Network
 for Macular Disease Classification: Development and Evaluation of an
 Embedding-Based Early Warning Detection System for Clinical Quality Control.
 MSc dissertation, Keele University, Staffordshire.
+https://doi.org/10.21252/zb0m-aq85
 
 ---
 
